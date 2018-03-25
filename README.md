@@ -1,2 +1,2 @@
 # ParaviewForQtDev
-Paraview SDK for Qt , windows 7 and 10
+Paraview SDK for Qt , support windows 7 and 10 for now
